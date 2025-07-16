@@ -1,0 +1,74 @@
+===== BANK MANAGEMENT SYSTEM =====
+
+1. Create Account
+2. View Account
+3. Deposit Amount
+4. Withdraw Amount
+5. View All Accounts
+6. Modify Account
+7. Delete Account
+8. Exit
+
+Select Your Option (1-8): 1
+
+>> Enter Account Number: 1010
+>> Enter Account Holder Name: Rajesh Kumar
+>> Enter Initial Balance: 15000
+
+>> Account Created Successfully.
+
+--------------------------------
+
+Select Your Option (1-8): 3
+
+>> Enter Account Number: 1010
+>> Enter Amount to Deposit: 5000
+
+>> Deposit Successful.
+
+--------------------------------
+
+Select Your Option (1-8): 2
+
+>> Enter Account Number: 1010
+
+>> Account Details:
+   Account Number : 1010
+   Holder Name    : Rajesh Kumar
+   Balance        : Rs. 20000.00
+
+--------------------------------
+
+Select Your Option (1-8): 4
+
+>> Enter Account Number: 1010
+>> Enter Amount to Withdraw: 10000
+
+>> Withdrawal Successful.
+
+--------------------------------
+
+Select Your Option (1-8): 2
+
+>> Enter Account Number: 1010
+
+>> Account Details:
+   Account Number : 1010
+   Holder Name    : Rajesh Kumar
+   Balance        : Rs. 10000.00
+
+--------------------------------
+
+Select Your Option (1-8): 5
+
+>> List of All Accounts:
+   -----------------------
+   Account Number : 1010
+   Holder Name    : Rajesh Kumar
+   Balance        : Rs. 10000.00
+
+--------------------------------
+
+Select Your Option (1-8): 8
+
+>> Thank you for using the Bank Management System.
