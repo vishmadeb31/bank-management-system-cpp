@@ -202,7 +202,7 @@ int main() {
         cout << "7. Delete an Account\n";
         cout << "8. Exit\n";
         cout << "Select an option (1-8): ";
-        cin >> choice;
+        cin >> choice ;
 
         switch (choice) {
             case 1:
